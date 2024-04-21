@@ -1,4 +1,4 @@
-S3961136 - My Online Booking System for Course Management
+My Online Booking System for Course Management
 
 ------
 [updated 10 April 2023]
@@ -25,11 +25,6 @@ S3961136 - My Online Booking System for Course Management
 2) Add Junit4 Library
 - Build Path > Add Library > JUnit > JUnit4
 
-#   8-min Demo Video
-
-Please go to the below link:
-
-[Assignment1_Demo](https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3961136_student_rmit_edu_au/Documents/Recording-20230411_101453.webm?csf=1&web=1&e=EFdRkS)
 
 
 -----------------------------------------------------------------------------------------------------
@@ -75,9 +70,4 @@ I chose ArrayList because
 2)	It’s a resizeable array that I don’t have to worry about the length.
 3)	Element of ArrayList can be accessed randomly. In this case, I will ask user to insert the number (Which is random because we don’t know what the subject the user wants to enroll. Then, I will use that number to get the object in the ArrayList by index.
 
------------------------------------------------------------------------------------------------------
-#   3-min Demo Video
 
-Please go to the below link:
-
-[Milestone_Demo_Week4](https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3961136_student_rmit_edu_au/Documents/Recording-20230324_001002.webm?csf=1&web=1&e=cMQwPn)
